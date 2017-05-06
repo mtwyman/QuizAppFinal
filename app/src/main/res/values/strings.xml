@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Boolean Logic For Recruiters</string>
+
+    <!-- Title of quiz -->
+    <string name="quiz_title">Quiz Subject: Boolean Logic And Operators</string>
+
+    <!-- Title body -->
+    <string name="title_body">This will test your recruiter sourcing skills around Boolean Logic</string>
+
+    <!-- Title: Person Name -->
+    <string name="question_name">Personal Info</string>
+    <!-- Question body text 11 -->
+    <string name="question_body_name">First Name Of Quiz Taker?</string>
+    <!-- Answers d for Question 1 -->
+    <string name="answer_name">Please type just your first name</string>
+
+    <!-- Question 1 -->
+    <string name="question_1">Question 1</string>
+    <!-- Question text 1 -->
+    <string name="question_body_1">Please select which answer is an actual Boolean operator that can be used in web searches.</string>
+    <!-- Answer a for Question 1 -->
+    <string name="answer_1a">OR</string>
+    <!-- Answers b for Question 1 -->
+    <string name="answer_1b">LOST</string>
+    <!-- Answers c for Question 1 -->
+    <string name="answer_1c">ABOVE</string>
+    <!-- Answers d for Question 1 -->
+    <string name="answer_1d">EDUCATION</string>
+
+    <!-- Question 2 -->
+    <string name="question_2">Question 2</string>
+    <!-- Question text 2 -->
+    <string name="question_body_2">What is a popular online recruiting technique that uses Boolean logic?</string>
+    <!-- Answers a for Question 2 -->
+    <string name="answer_2a">X-ray search</string>
+    <!-- Answers b for Question 2 -->
+    <string name="answer_2b">Typing tech + java + developer into Google</string>
+    <!-- Answers c for Question 2 -->
+    <string name="answer_2c">Saying, Ok, Google... and then asking Google to find you the perfect candidate.</string>
+    <!-- Answers d for Question 2 -->
+    <string name="answer_2d">Typing tech or java or developer into Google</string>
+
+    <!-- Title: question 3 -->
+    <string name="question_3">Question 3</string>
+    <!-- Question body text 3 -->
+    <string name="question_body_3">Which answer will find pdf documents online using Boolean logic?</string>
+    <!-- Answers a for Question 3 -->
+    <string name="answer_3a">FIND pdf</string>
+    <!-- Answers b for Question 3 -->
+    <string name="answer_3b">pdf SEARCH</string>
+    <!-- Answers c for Question 3 -->
+    <string name="answer_3c">filetype:pdf</string>
+
+    <!-- Title: question 4 -->
+    <string name="question_4">Question 4</string>
+    <!-- Question body text 4 -->
+    <string name="question_body_4">Which is a valid Boolean search?</string>
+    <!-- Answers a for Question 4 -->
+    <string name="answer_4a">java AND xml AND "Android Studio"</string>
+    <!-- Answers b for Question 4 -->
+    <string name="answer_4b">java And xml And "Android Studio"</string>
+    <!-- Answers c for Question 4 -->
+    <string name="answer_4c">java and xml and "Android Studio"</string>
+
+    <!-- Title: question 5 -->
+    <string name="question_5">Question 5</string>
+    <!-- Question body text 5 -->
+    <string name="question_body_5">Which is a valid Boolean search?</string>
+    <!-- Answers a for Question 5 -->
+    <string name="answer_5a">resume ("I am a*")</string>
+    <!-- Answers b for Question 5 -->
+    <string name="answer_5b">resume I am a...</string>
+    <!-- Answers c for Question 5 -->
+    <string name="answer_5c">resume and I am a?</string>
+
+    <!-- Title: question 6 -->
+    <string name="question_6">Question 6</string>
+    <!-- Question body text 6 -->
+    <string name="question_body_6">How would you exclude certain results from your Boolean search on Google?</string>
+    <!-- Answers a for Question 6 -->
+    <string name="answer_6a">"android developer" AND java DONT WANT designer</string>
+    <!-- Answers b for Question 6 -->
+    <string name="answer_6b">"android developer" AND java CANCEL designer</string>
+    <!-- Answers c for Question 6 -->
+    <string name="answer_6c">"android developer" AND java -designer</string>
+
+    <!-- Title: question 7 -->
+    <string name="question_7">Question 7</string>
+    <!-- Question body text 7 -->
+    <string name="question_body_7">Which of the below would also exclude certain results from your Boolean search on Google?</string>
+    <!-- Answers a for Question 7 -->
+    <string name="answer_7a">"android developer" OR "java engineer" CANCEL "lead programmer" CANCEL "lead engineer"</string>
+    <!-- Answers b for Question 7 -->
+    <string name="answer_7b">"android developer" OR "java engineer" DONT WANT "lead programmer" DONT WANT "lead engineer"</string>
+    <!-- Answers c for Question 7 -->
+    <string name="answer_7c">"android developer" OR "java engineer" NOT "lead programmer" NOT "lead engineer"</string>
+
+    <!-- Title: question 8 -->
+    <string name="question_8">Question 8</string>
+    <!-- Question body text 8 -->
+    <string name="question_body_8">Which X-ray search below is invalid?</string>
+    <!-- Answers a for Question 8 -->
+    <string name="answer_8a">site:linkedIn.com</string>
+    <!-- Answers b for Question 8 -->
+    <string name="answer_8b">site:github.com</string>
+    <!-- Answers c for Question 8 -->
+    <string name="answer_8c">site:stakoverflow.com</string>
+
+    <!-- Title: question 9 -->
+    <string name="question_9">Question 9</string>
+    <!-- Question body text 9 -->
+    <string name="question_body_9">Which of the below are great ways to recruit talent using Boolean?</string>
+    <!-- Answers a for Question 9 -->
+    <string name="answer_9a">Custom Search Engines</string>
+    <!-- Answers b for Question 9 -->
+    <string name="answer_9b">File type searches</string>
+    <!-- Answers c for Question 9 -->
+    <string name="answer_9c">Both Are Great Ways To Recruit Talent</string>
+
+    <!-- Title: question 10 -->
+    <string name="question_10">Question 10</string>
+    <!-- Question body text 10 -->
+    <string name="question_body_10">Select all that represent Boolean operators in a Google search:</string>
+    <!-- Answers a for Question 10 -->
+    <string name="answer_10a">DOWN</string>
+    <!-- Answers b for Question 1 -->
+    <string name="answer_10b">AND</string>
+    <!-- Answers c for Question 1 -->
+    <string name="answer_10c">NOT</string>
+    <!-- Answers d for Question 1 -->
+    <string name="answer_10d">STRAIGHT</string>
+
+    <!-- Button Submit -->
+    <string name="submit">Submit</string>
+    <!-- Text before submit button -->
+    <string name="submit_text">Click Submit When Done</string>
+    <string name="result_0_40">Sorry, but you did not pass! You need to study quite a bit harder.</string>
+    <string name="result_50_60">Sorry, you did not pass. You need to get one or two more right to claim victory!</string>
+    <string name="result_70_90">Good job! You have passed the quiz. You are a Boolean Pro.</string>
+    <string name="result_90_100">You are truly a Boolean Champion! You have passed the quiz with flying colors!</string>
+
+</resources>
